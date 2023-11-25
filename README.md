@@ -39,6 +39,9 @@ poohは、2024年に開発予定のCLIツールであり、私が収益を得る
   
 また、初期段階ではAPI化やGUI提供を行いません。私は、CLIツールの開発に慣れているため、CLIツールの開発に集中します。API化やGUI提供は、基本機能の開発が完了してから検討します。また、消極的な理由として、私はGUI開発が下手なことも挙げられます。
   
+## [WIP] pooh architecture
+[設計](./doc/ja/design.md)
+  
 ## pooh（名前）の由来
 「くまのプーさん（Winnie the pooh）」から借用しています。複数の理由があります。
   
@@ -54,3 +57,5 @@ poohは、2024年に開発予定のCLIツールであり、私が収益を得る
   - 「無料版 <-> 有料版」が存在すること
   - 「自由を信条とした過去の自分 <-> 家族のために信条を変えた現在の自分」が存在すること。どちらも私の一面です。
 
+## LICENSE
+GNU Affero General Public License v3 and MIT (contributions) with exception License Zero Patron 1.0.0.
